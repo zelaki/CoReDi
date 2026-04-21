@@ -27,8 +27,7 @@
   <sup>1</sup> Archimedes/Athena RC &emsp; <sup>2</sup> valeo.ai &emsp; <sup>3</sup> National Technical University of Athens &emsp; <br>
   <sup>4</sup> University of Crete &emsp; <sup>5</sup> IACM-Forth &emsp; 
 <p align="center">
-  <a href="https://representationdiffusion.github.io/">🌐 Project Page</a> &ensp;
-  <a href="https://arxiv.org/abs/2504.16064">📃 Paper</a> &ensp;
+  <a href="https://arxiv.org/abs/2604.17492">📃 Paper</a> &ensp;
   <br><br>
 </p>
 
@@ -36,3 +35,19 @@
 
 
 </div>
+
+Code and pretrained models will be released soon. Stay tuned!
+
+
+# Citation
+If you found CoReDi useful in your research, please consider starring ⭐ us on GitHub and citing 📚 us in your research!
+
+```bibtex
+@article{kouzelis_coredi2026,
+  title={Coevolving Representations in Joint Image-Feature Diffusion},
+  author={Kouzelis, Theodoros and Gidaris, Spyros and Komodakis, Nikos},
+  journal={arXiv preprint arXiv:2604.17492},
+  year={2026}
+}
+```
+
